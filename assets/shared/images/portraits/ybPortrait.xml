@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ybPortrait.png">
+	<SubTexture name="YB Portrait Enter instance 10000" x="0" y="0" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10001" x="996" y="0" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10002" x="996" y="0" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10003" x="0" y="580" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10004" x="0" y="580" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10005" x="996" y="580" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10006" x="996" y="580" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10007" x="996" y="580" width="996" height="580"/>
+	<SubTexture name="YB Portrait Enter instance 10008" x="996" y="580" width="996" height="580"/>
+</TextureAtlas>

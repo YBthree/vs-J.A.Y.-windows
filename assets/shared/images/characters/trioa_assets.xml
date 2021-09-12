@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trioa_assets.png">
+	<SubTexture name="trioa idle0000" x="0" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0001" x="0" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0002" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0003" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0004" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0005" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0006" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0007" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0008" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioa idle0009" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioa idle0010" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioa idle0011" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioa idle0012" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioa idle0013" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioa up0001" x="2019" y="769" width="673" height="769"/>
+	<SubTexture name="trioa up0002" x="2019" y="1538" width="673" height="769"/>
+	<SubTexture name="trioa down0001" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trioa down0002" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trioa left0001" x="0" y="1538" width="673" height="769"/>
+	<SubTexture name="trioa left0002" x="673" y="1538" width="673" height="769"/>
+	<SubTexture name="trioa right0001" x="1346" y="1538" width="673" height="769"/>
+	<SubTexture name="trioa right0002" x="2019" y="0" width="673" height="769"/>
+</TextureAtlas>

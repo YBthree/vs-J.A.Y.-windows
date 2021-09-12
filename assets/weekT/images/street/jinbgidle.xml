@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jinbgidle.png">
+	<SubTexture name="jinbg idle0000" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0001" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0002" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0003" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0004" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0005" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0006" x="780" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0007" x="780" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0008" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0009" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0010" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0011" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0012" x="780" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0013" x="780" y="780" width="780" height="780"/>
+	<SubTexture name="jinbg idle0014" x="1560" y="0" width="780" height="780"/>
+	<SubTexture name="jinbg idle0015" x="1560" y="0" width="780" height="780"/>
+</TextureAtlas>

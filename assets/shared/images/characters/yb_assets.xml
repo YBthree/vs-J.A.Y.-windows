@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yb_assets.png">
+	<SubTexture name="yb idle0000" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0001" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0002" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0003" x="1290" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0004" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0005" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0006" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0007" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0008" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0009" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0010" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0011" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0012" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="yb idle0013" x="1290" y="0" width="430" height="750"/>
+	<SubTexture name="yb up0001" x="0" y="1500" width="430" height="750"/>
+	<SubTexture name="yb up0002" x="430" y="1500" width="430" height="750"/>
+	<SubTexture name="yb down0001" x="860" y="750" width="430" height="750"/>
+	<SubTexture name="yb down0002" x="1290" y="750" width="430" height="750"/>
+	<SubTexture name="yb left0001" x="0" y="750" width="430" height="750"/>
+	<SubTexture name="yb left0002" x="430" y="750" width="430" height="750"/>
+	<SubTexture name="yb right0001" x="1720" y="0" width="430" height="750"/>
+	<SubTexture name="yb right0002" x="1720" y="750" width="430" height="750"/>
+</TextureAtlas>

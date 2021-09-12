@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jin_assets.png">
+	<SubTexture name="jin idle0001" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0002" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0003" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0004" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0005" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0006" x="0" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0007" x="780" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0008" x="780" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0009" x="1560" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0010" x="1560" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0011" x="1560" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0012" x="1560" y="0" width="780" height="780"/>
+	<SubTexture name="jin idle0013" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jin idle0014" x="0" y="780" width="780" height="780"/>
+	<SubTexture name="jin idle0015" x="780" y="780" width="780" height="780"/>
+	<SubTexture name="jin idle0016" x="780" y="780" width="780" height="780"/>
+	<SubTexture name="jin up0001" x="2340" y="0" width="780" height="780"/>
+	<SubTexture name="jin up0002" x="2340" y="780" width="780" height="780"/>
+	<SubTexture name="jin down0001" x="780" y="1560" width="780" height="780"/>
+	<SubTexture name="jin down0002" x="1560" y="1560" width="780" height="780"/>
+	<SubTexture name="jin left0001" x="1560" y="780" width="780" height="780"/>
+	<SubTexture name="jin left0002" x="0" y="1560" width="780" height="780"/>
+	<SubTexture name="jin right0001" x="2340" y="1560" width="780" height="780"/>
+	<SubTexture name="jin right0002" x="0" y="2340" width="780" height="780"/>
+</TextureAtlas>

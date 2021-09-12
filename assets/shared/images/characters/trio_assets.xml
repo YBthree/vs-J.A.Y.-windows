@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trio_assets.png">
+	<SubTexture name="trio idle0000" x="1500" y="0" width="673" height="769"/>
+	<SubTexture name="trio idle0001" x="1500" y="0" width="673" height="769"/>
+	<SubTexture name="trio idle0002" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0003" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0004" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0005" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0006" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0007" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0008" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0009" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0010" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0011" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0012" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trio idle0013" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trio up0001" x="2019" y="769" width="750" height="769"/>
+	<SubTexture name="trio up0002" x="2250" y="1538" width="750" height="769"/>
+	<SubTexture name="trio down0001" x="0" y="0" width="750" height="769"/>
+	<SubTexture name="trio down0002" x="750" y="0" width="750" height="769"/>
+	<SubTexture name="trio left0001" x="0" y="1538" width="750" height="769"/>
+	<SubTexture name="trio left0002" x="750" y="1538" width="750" height="769"/>
+	<SubTexture name="trio right0001" x="1500" y="1538" width="750" height="769"/>
+	<SubTexture name="trio right0002" x="2173" y="0" width="750" height="769"/>
+</TextureAtlas>

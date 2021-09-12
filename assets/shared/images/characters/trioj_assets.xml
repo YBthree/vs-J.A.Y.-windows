@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trioj_assets.png">
+	<SubTexture name="trioj idle0000" x="0" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0001" x="0" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0002" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0003" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0004" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0005" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0006" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0007" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0008" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioj idle0009" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioj idle0010" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioj idle0011" x="0" y="769" width="673" height="769"/>
+	<SubTexture name="trioj idle0012" x="1346" y="0" width="673" height="769"/>
+	<SubTexture name="trioj idle0013" x="673" y="0" width="673" height="769"/>
+	<SubTexture name="trioj up0001" x="2019" y="769" width="673" height="769"/>
+	<SubTexture name="trioj up0002" x="2019" y="1538" width="673" height="769"/>
+	<SubTexture name="trioj down0001" x="673" y="769" width="673" height="769"/>
+	<SubTexture name="trioj down0002" x="1346" y="769" width="673" height="769"/>
+	<SubTexture name="trioj left0001" x="0" y="1538" width="673" height="769"/>
+	<SubTexture name="trioj left0002" x="673" y="1538" width="673" height="769"/>
+	<SubTexture name="trioj right0001" x="1346" y="1538" width="673" height="769"/>
+	<SubTexture name="trioj right0002" x="2019" y="0" width="673" height="769"/>
+</TextureAtlas>

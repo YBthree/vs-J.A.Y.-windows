@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro.png">
+	<SubTexture name="animation instance 10000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10007" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10008" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="animation instance 10009" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="animation instance 10010" x="0" y="1440" width="1280" height="720"/>
+</TextureAtlas>

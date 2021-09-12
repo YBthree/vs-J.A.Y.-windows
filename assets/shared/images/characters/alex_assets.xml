@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alex_assets.png">
+	<SubTexture name="alex idle0000" x="1290" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0001" x="1290" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0002" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0003" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0004" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0005" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0006" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0007" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0008" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0009" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0010" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0011" x="0" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0012" x="430" y="0" width="430" height="750"/>
+	<SubTexture name="alex idle0013" x="860" y="0" width="430" height="750"/>
+	<SubTexture name="alex up0001" x="1720" y="0" width="430" height="750"/>
+	<SubTexture name="alex up0002" x="1720" y="750" width="430" height="750"/>
+	<SubTexture name="alex down0001" x="860" y="750" width="430" height="750"/>
+	<SubTexture name="alex down0002" x="1290" y="750" width="430" height="750"/>
+	<SubTexture name="alex left0001" x="0" y="750" width="430" height="750"/>
+	<SubTexture name="alex left0002" x="430" y="750" width="430" height="750"/>
+	<SubTexture name="alex right0001" x="0" y="1500" width="550" height="750"/>
+	<SubTexture name="alex right0002" x="550" y="1500" width="550" height="750"/>
+</TextureAtlas>
